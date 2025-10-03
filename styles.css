@@ -278,6 +278,7 @@ body {
 .module-card:nth-child(10) { --index: 10; }
 .module-card:nth-child(11) { --index: 11; }
 .module-card:nth-child(12) { --index: 12; }
+.module-card:nth-child(13) { --index: 13; }
 
 /* Responsividade */
 @media (max-width: 768px) {
